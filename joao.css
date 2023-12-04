@@ -88,10 +88,46 @@ body {
     background-color: #e0a800;
   }
   
-  #profile, #work, #contact {
+  #profile, #work {
     padding: 2em;
     line-height: 1.6;
   }
+
+  #contact {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #contact h2 {
+    color: #007bff;
+  }
+  
+  #contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #contact ul li {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+  }
+  
+  #contact a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s ease;
+  }
+  
+  #contact a:hover {
+    color: #0056b3;
+  }
+  
+  /* Icon styles */
+  #contact .fa {
+    margin-right: 8px;
+  }
+  
   
   h2 {
     color: #007bff;
