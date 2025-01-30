@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-30T02:38:00+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">João Vasco</title><subtitle>personal description</subtitle><author><name>João Vasco</name><email>joaovascoscp@gmail.com</email></author><entry><title type="html">The Power of Words: How Languages Shape AI Responses</title><link href="http://localhost:4000/posts/2012/08/blog-post-4/" rel="alternate" type="text/html" title="The Power of Words: How Languages Shape AI Responses" /><published>2025-01-14T00:00:00+00:00</published><updated>2025-01-14T00:00:00+00:00</updated><id>http://localhost:4000/posts/2012/08/blog-post-4</id><content type="html" xml:base="http://localhost:4000/posts/2012/08/blog-post-4/"><![CDATA[<h2 id="overview">Overview</h2>
+<p>This experiment explores how different language variations impact AI-generated outputs. Using <strong>200 prompts</strong>, three bilingual evaluators assessed AI-generated images based on prompts in different languages.</p>
+
+<h2 id="experiment-setup">Experiment Setup</h2>
+<ul>
+  <li><strong>Original English prompt</strong></li>
+  <li><strong>Portuguese prompt written by a native Portuguese speaker studying English Studies</strong></li>
+  <li><strong>Portuguese prompt translated back to English using widn.ai</strong></li>
+</ul>
+
+<h3 id="key-findings">Key Findings</h3>
+<ul>
+  <li><strong>84 images</strong> from original English prompts were deemed most accurate.</li>
+  <li><strong>82 images</strong> from the translated prompts were considered the best.</li>
+  <li><strong>Only 34 images</strong> from the original Portuguese prompts matched evaluator expectations.</li>
+</ul>
+
+<h3 id="how-it-worked">How It Worked</h3>
+<ul>
+  <li>Each prompt generated <strong>three images</strong>, one for each language variation.</li>
+  <li><strong>Bilingual evaluators</strong> (native Portuguese speakers) assessed which image best represented the prompt.</li>
+</ul>
+
+<h3 id="example-prompt">Example Prompt</h3>
+<h4 id="english-text-a"><strong>English (TEXT A):</strong></h4>
+<p><em>A lush tropical rainforest scene at sunrise, with sunlight filtering through the dense canopy. A vibrant blue-and-yellow macaw is perched on a moss-covered branch, surrounded by hanging vines and orchids in full bloom. In the background, a small waterfall cascades into a crystal-clear pool, where two deer are drinking water. The atmosphere is serene and filled with mist.</em></p>
+
+<h4 id="portuguese-text-b"><strong>Portuguese (TEXT B):</strong></h4>
+<p><em>Uma cena luxuosa de uma floresta tropical ao amanhecer, com a luz solar refletindo-se na densa copa das árvores. Em primeiro plano, uma arara azul e amarela vibrante está suspensa num ramo coberto de musgo, rodeada por trepadeiras suspensas e orquídeas em plena floração. Uma pequena cascata deságua numa piscina de água límpida, onde dois veados se banham. A atmosfera é tranquila e repleta de neblina.</em></p>
+
+<h4 id="translated-back-to-english-text-c-via-widnai"><strong>Translated Back to English (TEXT C) via Widn.Ai:</strong></h4>
+<p><em>A luxurious scene of a tropical forest at dawn, with sunlight reflecting off the dense canopy of trees. In the foreground, a vibrant blue and yellow macaw is perched on a moss-covered branch, surrounded by hanging vines and orchids in full bloom. A small waterfall flows into a pool of clear water, where two deer are bathing. The atmosphere is serene and misty.</em></p>
+
+<h3 id="observations">Observations</h3>
+<ul>
+  <li>The <strong>English original and translated prompts</strong> produced nearly identical results.</li>
+  <li>The <strong>original Portuguese prompts</strong> led to significantly lower accuracy in image selection.</li>
+  <li><strong>Language structure impacts AI interpretation</strong>, influencing output quality.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>This experiment underscores the importance of <strong>writing AI prompts in English</strong> for the most accurate and consistent results. The findings also suggest that <strong>translation tools still struggle with nuanced prompts</strong> used in AI image generation.</p>
+
+<p><strong>Read more and join the discussion:</strong> <a href="https://www.linkedin.com/posts/jo%C3%A3o-vasco-9a50331a6_the-power-of-words-how-languages-shape-ai-activity-7284539716786417665-3_zf?utm_source=share&amp;utm_medium=member_desktop">LinkedIn Post</a></p>
+
+<hr />]]></content><author><name>João Vasco</name><email>joaovascoscp@gmail.com</email></author><category term="machine translation" /><category term="languages" /><category term="research" /><category term="widn.ai" /><summary type="html"><![CDATA[Overview This experiment explores how different language variations impact AI-generated outputs. Using 200 prompts, three bilingual evaluators assessed AI-generated images based on prompts in different languages.]]></summary></entry><entry><title type="html">Helpful Reviews</title><link href="http://localhost:4000/posts/2012/08/blog-post-5/" rel="alternate" type="text/html" title="Helpful Reviews" /><published>2023-12-15T00:00:00+00:00</published><updated>2023-12-15T00:00:00+00:00</updated><id>http://localhost:4000/posts/2012/08/future-post</id><content type="html" xml:base="http://localhost:4000/posts/2012/08/blog-post-5/"><![CDATA[<h2 id="overview">Overview</h2>
+<p>This project explores the intersection of <strong>Data Science, Machine Learning, and AI Communication</strong>, highlighting the importance of effectively conveying AI-driven insights to diverse audiences.</p>
+
+<h2 id="key-topics">Key Topics</h2>
+
+<h3 id="effective-ai-communication">Effective AI Communication</h3>
+<ul>
+  <li><strong>Bridging the Gap:</strong> Translating complex AI models into accessible insights.</li>
+  <li><strong>Data-Driven Decision Making:</strong> Enhancing business strategies with AI-generated data.</li>
+  <li><strong>Transparency &amp; Ethics:</strong> Ensuring responsible AI communication and decision-making.</li>
+</ul>
+
+<h3 id="machine-learning--data-science">Machine Learning &amp; Data Science</h3>
+<ul>
+  <li><strong>Model Interpretability:</strong> Making AI predictions understandable for stakeholders.</li>
+  <li><strong>Real-World Applications:</strong> Implementing AI for business intelligence, automation, and predictive analytics.</li>
+  <li><strong>Challenges:</strong> Addressing biases, explainability, and ethical concerns in AI.</li>
+</ul>
+
+<h3 id="future-directions">Future Directions</h3>
+<ul>
+  <li><strong>Human-Centric AI:</strong> Enhancing usability and interaction with AI tools.</li>
+  <li><strong>Advancements in AI Communication:</strong> Developing better ways to explain and visualize AI outputs.</li>
+  <li><strong>Interdisciplinary Collaboration:</strong> Combining expertise from data science, communication, and design.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Effective AI communication is crucial for maximizing the impact of Data Science and Machine Learning. As AI continues to evolve, the focus must remain on transparency, interpretability, and ethical considerations.</p>
+
+<p><strong>Read more and join the discussion:</strong> <a href="https://www.linkedin.com/posts/jo%C3%A3o-vasco-9a50331a6_datascience-machinelearning-aicommunication-activity-7136692985500512256--0YH?utm_source=share&amp;utm_medium=member_desktop">LinkedIn Post</a></p>]]></content><author><name>João Vasco</name><email>joaovascoscp@gmail.com</email></author><category term="amazon" /><category term="sentiment analysis" /><summary type="html"><![CDATA[Overview This project explores the intersection of Data Science, Machine Learning, and AI Communication, highlighting the importance of effectively conveying AI-driven insights to diverse audiences.]]></summary></entry><entry><title type="html">Truthful vs. Deceptive Hotel Reviews Classification</title><link href="http://localhost:4000/posts/2013/08/blog-post-2/" rel="alternate" type="text/html" title="Truthful vs. Deceptive Hotel Reviews Classification" /><published>2023-11-30T00:00:00+00:00</published><updated>2023-11-30T00:00:00+00:00</updated><id>http://localhost:4000/posts/2013/08/blog-post-2</id><content type="html" xml:base="http://localhost:4000/posts/2013/08/blog-post-2/"><![CDATA[<h2 id="overview">Overview</h2>
+<p>This study focuses on the classification of hotel reviews as either truthful or deceptive. Various machine learning models were evaluated to determine their effectiveness in identifying deceptive reviews.</p>
+
+<h2 id="key-topics">Key Topics</h2>
+
+<h3 id="models-used">Models Used</h3>
+<ul>
+  <li><strong>Linear Support Vector Classifier (Linear SVC):</strong> The best-performing model, effectively identifying deception.</li>
+  <li><strong>Gradient Boosting Classifier:</strong> Sequential decision trees for improving classification accuracy.</li>
+  <li><strong>K-Nearest Neighbors (KNN):</strong> Classifies based on the similarity of neighboring data points.</li>
+  <li><strong>Multinomial Naïve Bayes:</strong> A probabilistic classifier useful for multi-class text classification.</li>
+</ul>
+
+<h3 id="preprocessing-steps">Preprocessing Steps</h3>
+<ul>
+  <li>Converted text to lowercase for uniformity.</li>
+  <li>Tokenized and lemmatized words while filtering stopwords.</li>
+  <li>Retained punctuation due to its significance in sentiment analysis.</li>
+</ul>
+
+<h3 id="experimental-results">Experimental Results</h3>
+<ul>
+  <li>Dataset: 1400 hotel reviews classified as Truthful Positive (TP), Truthful Negative (TN), Deceptive Positive (DP), and Deceptive Negative (DN).</li>
+  <li><strong>Linear SVC achieved the highest accuracy at 87.86%.</strong></li>
+  <li>Gradient Boosting (69.93%), KNN (64.29%), and MultinomialNB (79.29%) performed lower.</li>
+</ul>
+
+<h3 id="analysis-of-misclassifications">Analysis of Misclassifications</h3>
+<ul>
+  <li>The study identified key phrases that led to incorrect classifications.</li>
+  <li>Certain exaggerations and strong emotions misled the classifier.</li>
+  <li>Ambiguous statements affected accuracy.</li>
+</ul>
+
+<h3 id="future-work">Future Work</h3>
+<ul>
+  <li>Improve preprocessing by handling colloquialisms and uncommon terms.</li>
+  <li>Refine dataset alignment by reassessing questionable labels.</li>
+  <li>Explore deep learning approaches (RNNs, LSTMs, Transformer models).</li>
+  <li>Implement data augmentation techniques to enhance dataset robustness.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>The study demonstrates that <strong>Linear SVC is the most effective model</strong> for classifying truthful and deceptive hotel reviews. Future improvements could include enhanced preprocessing and deep learning methods to boost performance.</p>
+
+<h2 id="read-more-and-join-the-discussion-linkedin-post"><strong>Read more and join the discussion:</strong> <a href="https://www.linkedin.com/posts/jo%C3%A3o-vasco-9a50331a6_hotel-reviews-classification-activity-7124049557142786048-VDQy?utm_source=share&amp;utm_medium=member_desktop">LinkedIn Post</a></h2>]]></content><author><name>João Vasco</name><email>joaovascoscp@gmail.com</email></author><category term="NLP" /><category term="MachineLearning" /><category term="DataScience" /><summary type="html"><![CDATA[Overview This study focuses on the classification of hotel reviews as either truthful or deceptive. Various machine learning models were evaluated to determine their effectiveness in identifying deceptive reviews.]]></summary></entry><entry><title type="html">Cross Language Call Sanitization</title><link href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Cross Language Call Sanitization" /><published>2022-12-15T00:00:00+00:00</published><updated>2022-12-15T00:00:00+00:00</updated><id>http://localhost:4000/posts/2012/08/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2012/08/blog-post-1/"><![CDATA[<h2 id="overview">Overview</h2>
+<p>Modern software often integrates multiple programming languages, increasing complexity and security vulnerabilities. This paper investigates how known sanitizers can be adapted to detect and mitigate cross-language call vulnerabilities.</p>
+
+<h2 id="key-topics">Key Topics</h2>
+
+<h3 id="cross-language-attacks-cla">Cross Language Attacks (CLA)</h3>
+<ul>
+  <li><strong>Problem:</strong> Different languages have distinct security assumptions, leading to vulnerabilities when interacting.</li>
+  <li><strong>Example:</strong> A Rust program calling C functions via Foreign Function Interface (FFI) may compromise Rust’s memory safety.</li>
+  <li><strong>Attack Method:</strong> Attackers exploit mismatched security models between languages to perform attacks impossible within a single language.</li>
+</ul>
+
+<h3 id="existing-sanitizers">Existing Sanitizers</h3>
+<ul>
+  <li><strong>AddressSanitizer (ASAN):</strong> Detects memory errors like buffer overflows, out-of-bounds access, and use-after-free in C/C++.</li>
+  <li><strong>Findings:</strong> ASAN and other sanitizers (LeakSanitizer, ThreadSanitizer, etc.) do not effectively detect CLA vulnerabilities.</li>
+  <li><strong>Challenges:</strong> Cross-language function calls bypass sanitization mechanisms, leading to undetected exploits.</li>
+</ul>
+
+<h3 id="proposed-solutions">Proposed Solutions</h3>
+<ul>
+  <li><strong>Prevent Unintended Interactions:</strong> Isolating components in separate processes or virtualizing them (e.g., Sandcrust for Rust).</li>
+  <li><strong>Securing Intended Interactions:</strong> Implementing sanitizers to monitor inter-language calls and detect anomalies.</li>
+  <li><strong>Sanitizer Extension:</strong> Expanding ASAN with shadow memory mapping to store metadata about memory boundaries and freed resources across languages.</li>
+</ul>
+
+<h3 id="future-work">Future Work</h3>
+<ul>
+  <li><strong>Implementation of Extended ASAN:</strong> Develop and test a cross-language sanitizer in real-world scenarios.</li>
+  <li><strong>Security Validation:</strong> Evaluate effectiveness in detecting and preventing cross-language attacks.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Current sanitizers fail to address CLA vulnerabilities effectively. Extending sanitizers like ASAN with shared metadata tracking can improve security. Cross-language sanitization will be essential for modern multi-language applications.</p>
+
+<p><strong>Read more and join the discussion:</strong> <a href="https://www.linkedin.com/posts/jo%C3%A3o-vasco-9a50331a6_crosslanguagecallsanitizationpdf-pdf-activity-7118373155517181952-Wc2J?utm_source=share&amp;utm_medium=member_desktop">LinkedIn Post</a></p>
+
+<hr />]]></content><author><name>João Vasco</name><email>joaovascoscp@gmail.com</email></author><category term="cyber security" /><category term="go" /><category term="c" /><summary type="html"><![CDATA[Overview Modern software often integrates multiple programming languages, increasing complexity and security vulnerabilities. This paper investigates how known sanitizers can be adapted to detect and mitigate cross-language call vulnerabilities.]]></summary></entry></feed>
