@@ -1,6 +1,6 @@
 ---
 title: "Open-Source Widn Integration with Blackbird.io"
-excerpt: "Enhancing workflow automation by integrating Widn into Blackbird.io. In an open-source project"
+excerpt: "As part of my contributions to Widn, I worked on integrating it into Blackbird.io to enhance workflow automation using AI-driven text and file translation. This integration aims to streamline data workflows, optimize automated decision-making, and improve efficiency in real-world applications."
 collection: portfolio
 ---
 

@@ -1,1 +1,1 @@
-Sitemap: https://github.com/joaovasco01/sitemap.xml
+Sitemap: http://localhost:5000/sitemap.xml

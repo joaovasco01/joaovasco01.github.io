@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Virtual Fitting with Stable Diffusion"
-excerpt: "Developing a fine-tuned Stable Diffusion model with LoRAs to enable realistic virtual try-ons."
+excerpt: "This project uses fine-tuned Stable Diffusion and LoRA models to create photorealistic virtual try-ons by applying specific clothing onto various body types with inpainting and data-driven AI training."
 collection: portfolio
 ---
 
@@ -35,4 +35,3 @@ The second model was pre-photographed and was wearing different clothing.
 - **Real-Time Virtual Try-On** – Exploring integration with **live webcam input** for instant outfit previews.  
 - **Refining Textures & Fabric Physics** – Further improving **how fabric folds, drapes, and reacts to body movements**.  
 
----

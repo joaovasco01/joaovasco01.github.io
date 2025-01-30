@@ -1,6 +1,6 @@
 ---
 title: "How to Disappear Online"
-excerpt: "Master Thesis."
+excerpt: "This Master thesis explores methodologies for digital erasure, focusing on data privacy, compliance with GDPR, CCPA, and AI regulations, and the use of machine learning to facilitate secure data deletion."
 collection: portfolio
 ---
 
@@ -24,5 +24,3 @@ This **Master's thesis** presents a **comprehensive approach to secure data dele
 
 📄 [Full Thesis (PDF)](/files/95611-Joao-Reis-dissertacao.pdf)
 🎤 [Summary](/files/95611-Joao-Reis-resumo.pdf)
-
-

@@ -12,16 +12,16 @@ title                    : "João Vasco"
 title_separator          : "-"
 name                     : &name "João Vasco"
 description              : &description "personal description"
-url                      : https://github.com/joaovasco01 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://joaovasco01.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "imageblack.png"
+  avatar           : "Imageblack.png"
   name             : "João Vasco"
   pronouns         : # example: "she/her"  
   bio              : "23 | MSc Computer Science | 2+ Years in Tech"
